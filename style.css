@@ -1,0 +1,10 @@
+.white{
+    background-color: aliceblue;
+}
+.black{
+    background-color: black;
+}
+table{
+    border: 2px solid black;
+    border-collapse: separate;
+}
